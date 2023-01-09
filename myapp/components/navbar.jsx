@@ -13,6 +13,7 @@ const categories=[
         slug:"hey react2"
     }
 ]
+// link is imported from next
 const Navbar = () => {
   return (
     <div className='main mx-auto px-10 mb-8'>
@@ -35,6 +36,7 @@ const Navbar = () => {
                         </>
                     })
                 }
+            
                     
                     </div>
 
